@@ -20,5 +20,7 @@ in testdrive (or naval history battle if you want to)
 界面语言请选择中文
 Only Chinese language is currently surported.
 
-使用脚本有概率被封号，但我还没有。
-using autoscript may causing your account to be banned, but I haven't not been banned (yet)
+使用脚本有概率被封号，尤其是长时间运行！
+我的账号因为24小时运行脚本已在2026年8月健康行动中被封禁！
+Using autoscript may causing your account to be blocked, especially when you run the script around the clock.
+My account is blocked permanently due to this!
